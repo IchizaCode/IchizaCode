@@ -1,7 +1,7 @@
 # ✦ Rajarshi Barman / IchizaCode
 
 <p align="center">
-  <i>Curious mind. Endless things to build.</i>
+  <i>We are what we repeatedly do. Excellence, then, is not an act, but a habit - Aristotle.</i>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 Computer Science undergraduate fascinated by the intersection of software, data and infrastructure. I enjoy understanding systems from the ground up and learning by building things.
 
-Currently exploring **Backend Development · Data Engineering · AI/ML · Linux & Systems**.
+Currently exploring **building my home server with various services viz. fullstack development, personal cloud, ai/ml infrastructure, data engineering pipelines and devops**.
 
 ---
 
