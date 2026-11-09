@@ -31,7 +31,7 @@ I like working close to the systems layer, building things, breaking them, and f
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark"/>
 
 **Currently Exploring**
 
