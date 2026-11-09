@@ -1,7 +1,7 @@
 # ✦ Rajarshi Barman / IchizaCode
 
 <p align="center">
-  <i>We are what we repeatedly do. Excellence, then, is not an act, but a habit - Aristotle.</i>
+  <i>We are what we repeatedly do. Excellence, then, is not an act, but a habit - Will Durant.</i>
 </p>
 
 <p align="center">
@@ -12,12 +12,7 @@
 
 I build, I break.
 
-Currently building my home server with the following facilities:
-- Website Hosting
-- End to end etl data pipeline
-- Devops
-- AI/ML Infrastructure
-- Personal Cloud
+
 
 ---
 
@@ -48,7 +43,6 @@ Currently building my home server with the following facilities:
 ### 🐧 About Me
 
 - 🎓 B.Tech Computer Science
-- 💻 Building things and breaking things
 - 📊 Love to work with data
 - 🎶 Learning Instruments | 🎸🎹
 
@@ -73,41 +67,6 @@ A self-hosted engineering environment covering backend, data engineering, AI/ML,
 
 <sub>Python · Docker · PostgreSQL · Linux</sub>
 
-</td>
-<td width="50%" valign="top">
-
-**📊 Data Engineering**
-
-Exploring data pipelines, workflow orchestration and modern data infrastructure.
-
-Upcoming📊
-
-<sub>Python · SQL · Airflow · dbt</sub>
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Machine Learning**
-
-Experimenting with predictive analytics, recommendation systems and model deployment.
-
-Upcoming📊
-
-<sub>Python · Pandas · Scikit-learn</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Backend Development**
-
-Building APIs, database-backed applications and self-hosted web services.
-
-Upcoming📊
-
-<sub>FastAPI · PostgreSQL · Docker</sub>
 
 </td>
 </tr>
@@ -115,7 +74,7 @@ Upcoming📊
 
 ### 📚 Learning & Certifications
 
-`Harvard CS50P` · `Google Data Analytics Foundations` · `Pandas`
+`Harvard CS50P` · `Google Data Analytics Foundations` 
 
 Currently focusing on backend development, SQL, data engineering, Linux infrastructure and machine learning.
 
