@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Currently%20Building-Homelab-292638?style=flat-square"/>
 </p>
 
-I build, I break.
+
 
 
 ### 🐧 About Me
