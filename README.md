@@ -27,15 +27,15 @@ I like working close to the systems layer, building things, breaking them, and f
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark&perline=4"/>
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark&perline=4"/>
 
 **Currently Exploring**
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,sklearn&theme=dark&perline=4"/>
 
 <br clear = "right"/>
 
