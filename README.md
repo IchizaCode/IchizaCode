@@ -43,8 +43,7 @@ I build, I break.
 ### 🐧 About Me
 
 - 🎓 B.Tech Computer Science
-- 📊 Love to work with data
-- 🎶 Learning Instruments | 🎸🎹
+
 
 
 </td>
