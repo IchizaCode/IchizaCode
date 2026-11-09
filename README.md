@@ -1,110 +1,137 @@
-# ✦ Hey, I'm Rajarshi!
-
-### Computer Science Undergraduate · Backend Development · Data Engineering · AI/ML
+# ✦ Rajarshi Barman / IchizaCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-9B8BB4?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Backend-7895B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-Building-8FAF9B?style=flat-square" />
+  <i>Curious mind. Endless things to build.</i>
 </p>
 
 <p align="center">
-  <i>学び続ける。作り続ける。</i>
-  <br/>
-  <sub>Keep learning. Keep building.</sub>
+  <img src="https://img.shields.io/badge/CS%20Undergraduate-292638?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend%20%26%20Data-292638?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Currently%20Building-Homelab-292638?style=flat-square"/>
 </p>
 
-I'm Rajarshi, a Computer Science undergraduate fascinated by the systems that power modern technology.
+Computer Science undergraduate fascinated by the intersection of software, data and infrastructure. I enjoy understanding systems from the ground up and learning by building things.
 
-I enjoy exploring how things work under the hood — from Linux and computer networks to databases, backend systems, data pipelines and machine learning.
-
-Most of my learning happens through experimentation and building things. I'm currently working towards becoming a well-rounded engineer, with a particular interest in **Backend Development, Data Engineering and AI/ML**.
+Currently exploring **Backend Development · Data Engineering · AI/ML · Linux & Systems**.
 
 ---
 
-## ⚡ Tech Stack
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### Languages
+### ⚡ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
-</p>
+**Languages**
 
-### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,postgres&theme=dark" />
-</p>
+**Tools & Infrastructure**
 
-### Currently Exploring
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,postgres&theme=dark"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,docker,sklearn&theme=dark" />
-</p>
+**Currently Exploring**
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-8CA6C0?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-9B8BB4?style=flat-square&logo=mlflow&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,sklearn&theme=dark"/>
 
----
+<img src="https://img.shields.io/badge/Apache%20Airflow-292638?style=flat-square&logo=apacheairflow&logoColor=8CA6C0"/>
+<img src="https://img.shields.io/badge/MLflow-292638?style=flat-square&logo=mlflow&logoColor=C9B8E8"/>
 
-## 🚀 What I'm Building
+</td>
+<td width="45%" valign="top">
 
-| Project | Description | Status |
-|---|---|---|
-| 🏠 [Homelab](https://github.com/IchizaCode/homelab) | A self-hosted engineering environment for backend, data, AI/ML and infrastructure | In Progress |
-| 📊 Data Engineering | Exploring automated data pipelines and modern data infrastructure | Exploring |
-| 🤖 ML Projects | Experimenting with predictive analytics and recommendation systems | Exploring |
+### 🌸 A Little About Me
 
----
+- 🎓 B.Tech Computer Science
+- 💻 Building things and breaking things
+- 📖 Manga & light novel enthusiast
+- 🎸 Guitar, J-rock & math rock
+- 🎧 J-pop and alternative music
+- 🇯🇵 Learning new languages
+- 🎹 Interested in learning piano
 
-## 📚 Learning & Certifications
+**Current motto**
 
-- **Harvard CS50P** — Introduction to Programming with Python
-- **Google Data Analytics Foundations** — Data analytics fundamentals
-- **Pandas** — Data manipulation, analysis and preprocessing
+*Learn deeply. Build consistently.*
 
-### Currently Focusing On
-
-- Backend development with Python and FastAPI
-- SQL and database management
-- Docker and Linux infrastructure
-- Data engineering and workflow orchestration
-- Machine learning and model deployment
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏠 Homelab**
+
+A self-hosted engineering environment covering backend, data engineering, AI/ML, DevOps and infrastructure.
+
+[View Repository ↗](https://github.com/IchizaCode/homelab)
+
+<sub>Python · Docker · PostgreSQL · Linux</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data Engineering**
+
+Exploring data pipelines, workflow orchestration and modern data infrastructure.
+
+<sub>Python · SQL · Airflow · dbt</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Machine Learning**
+
+Experimenting with predictive analytics, recommendation systems and model deployment.
+
+<sub>Python · Pandas · Scikit-learn</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Backend Development**
+
+Building APIs, database-backed applications and self-hosted web services.
+
+<sub>FastAPI · PostgreSQL · Docker</sub>
+
+</td>
+</tr>
+</table>
+
+### 📚 Learning & Certifications
+
+`Harvard CS50P` · `Google Data Analytics Foundations` · `Pandas`
+
+Currently focusing on backend development, SQL, data engineering, Linux infrastructure and machine learning.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Graph" />
+  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/IchizaCode?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-292638?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositories-292638?style=flat-square&logo=github&logoColor=C9B8E8"/>
+  </a>
+  <a href="https://github.com/IchizaCode?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-292638?style=flat-square&logo=github&logoColor=E8C98A"/>
   </a>
 </p>
 
----
-
-## 🌸 Beyond Code
-
-There's more to me than terminals and code.
-
-- 📖 Manga & light novels — always looking for something worth reading.
-- 🎸 Guitar — especially J-rock, math rock and Midwest emo.
-- 🎧 Music — J-pop, J-rock and Japanese alternative.
-- 🇯🇵 Japanese — slowly working towards understanding the language.
-- 🎹 Piano — another instrument on my learning list.
-
----
-
 <p align="center">
-  <i>「千里の道も一歩から」</i>
+  <sub>Thanks for visiting my corner of GitHub.</sub>
   <br/>
-  <sub>A journey of a thousand miles begins with a single step.</sub>
-  <br/><br/>
-  ✦ Thanks for visiting my little corner of GitHub. ✦
+  ✦ Learn deeply. Build consistently. ✦
 </p>
