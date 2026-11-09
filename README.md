@@ -3,9 +3,7 @@
 ### Computer Science Undergraduate | Backend Development | Data Engineering | AI/ML
 
 <p align="left">
-  <a href="https://github.com/IchizaCode">
-    <img src="https://img.shields.io/badge/GitHub-IchizaCode-181717?style=flat-square&logo=github" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-IchizaCode-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building-16A34A?style=flat-square" />
 </p>
@@ -41,22 +39,27 @@ class Developer:
 
 ## ⚡ Tech Stack
 
-**Languages**
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
 </p>
 
-**Tools & Infrastructure**
+### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,postgres&theme=dark" />
 </p>
 
-**Currently Exploring**
+### Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,docker,airflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,docker,sklearn&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
 
 ---
@@ -66,7 +69,7 @@ class Developer:
 | Project | Description | Status |
 |---|---|---|
 | 🏠 [Homelab](https://github.com/IchizaCode/homelab) | Self-hosted engineering environment covering backend, data, AI/ML and infrastructure | In Progress |
-| 📊 Data Engineering Projects | Building automated data pipelines and learning modern data infrastructure | Exploring |
+| 📊 Data Engineering | Exploring automated data pipelines and modern data infrastructure | Exploring |
 | 🤖 ML Projects | Experimenting with predictive analytics and recommendation systems | Exploring |
 
 ---
@@ -77,7 +80,7 @@ class Developer:
 - **Google Data Analytics Foundations** — Data analytics fundamentals
 - **Pandas** — Data manipulation, analysis and preprocessing
 
-Currently focusing on:
+### Currently Focusing On
 
 - Backend development with Python and FastAPI
 - SQL and database management
@@ -87,15 +90,20 @@ Currently focusing on:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IchizaCode&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchizaCode&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IchizaCode&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=IchizaCode&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/IchizaCode?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -104,11 +112,11 @@ Currently focusing on:
 
 When I'm not coding, I'm probably:
 
-- Reading manga or light novels.
-- Exploring music, especially J-rock, J-pop and math rock.
-- Playing guitar.
-- Learning Japanese.
-- Exploring new technologies and ideas.
+- 📖 Reading manga or light novels.
+- 🎸 Playing guitar.
+- 🎧 Exploring J-rock, J-pop and math rock.
+- 🇯🇵 Learning Japanese.
+- 💻 Exploring new technologies and ideas.
 
 ---
 
@@ -116,4 +124,6 @@ When I'm not coding, I'm probably:
   <i>"The best way to understand a system is to build one."</i>
   <br/><br/>
   <b>Thanks for stopping by!</b>
+  <br/>
+  <sub>Learn deeply. Build consistently.</sub>
 </p>
