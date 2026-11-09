@@ -80,7 +80,10 @@ A self-hosted engineering environment covering backend, data engineering, AI/ML,
 
 Exploring data pipelines, workflow orchestration and modern data infrastructure.
 
+Upcoming📊
+
 <sub>Python · SQL · Airflow · dbt</sub>
+
 
 </td>
 </tr>
@@ -91,6 +94,8 @@ Exploring data pipelines, workflow orchestration and modern data infrastructure.
 
 Experimenting with predictive analytics, recommendation systems and model deployment.
 
+Upcoming📊
+
 <sub>Python · Pandas · Scikit-learn</sub>
 
 </td>
@@ -99,6 +104,8 @@ Experimenting with predictive analytics, recommendation systems and model deploy
 **🌐 Backend Development**
 
 Building APIs, database-backed applications and self-hosted web services.
+
+Upcoming📊
 
 <sub>FastAPI · PostgreSQL · Docker</sub>
 
