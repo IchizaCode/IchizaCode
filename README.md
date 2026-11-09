@@ -21,6 +21,7 @@ I like working close to the systems layer, building things, breaking them, and f
 
 ---
 
+<img src="tech.gif" align="right" width="300"/>
 
 ### ⚡ Tech Stack
 
@@ -36,11 +37,9 @@ I like working close to the systems layer, building things, breaking them, and f
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,sklearn&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Apache%20Airflow-292638?style=flat-square&logo=apacheairflow&logoColor=8CA6C0"/>
-<img src="https://img.shields.io/badge/MLflow-292638?style=flat-square&logo=mlflow&logoColor=C9B8E8"/>
 
-</td>
-<td width="45%" valign="top">
+
+
 
 ---
 
