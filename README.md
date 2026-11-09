@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Currently%20Building-Homelab-292638?style=flat-square"/>
 </p>
 
-Computer Science undergraduate fascinated by the intersection of software, data and infrastructure. I enjoy understanding systems from the ground up and learning by building things.
+I build, I break.
 
 Currently building my home server with the following facilities:
 - Website Hosting
