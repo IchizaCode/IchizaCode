@@ -93,17 +93,16 @@ class Developer:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IchizaCode&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <a href="https://github.com/IchizaCode?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/IchizaCode?tab=stars">
+    <img src="https://img.shields.io/badge/Explore%20My%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/IchizaCode?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <i>Building consistently, one commit at a time.</i>
 </p>
 
 ---
