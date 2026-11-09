@@ -14,12 +14,10 @@ Computer Science undergraduate fascinated by the intersection of software, data 
 
 Currently exploring **Backend Development · Data Engineering · AI/ML · Linux & Systems**.
 
----
-
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="55%" valign="top">
-
+---
 ### ⚡ Tech Stack
 
 **Languages**
@@ -47,19 +45,16 @@ Currently exploring **Backend Development · Data Engineering · AI/ML · Linux 
 - 📖 Manga & light novel enthusiast
 - 🎸 Guitar, J-rock & math rock
 - 🎧 J-pop and alternative music
-- 🇯🇵 Learning new languages
+- Learning new languages
 - 🎹 Interested in learning piano
 
 **Current motto**
 
 *Learn deeply. Build consistently.*
-
+---
 </td>
 </tr>
 </table>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
