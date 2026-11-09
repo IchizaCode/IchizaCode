@@ -13,12 +13,14 @@
 I build, I break.
 
 
+### 🐧 About Me
+
+A curious developer who enjoys understanding things from the ground up.
+
+I like working close to the systems layer, building things, breaking them, and figuring out why they work the way they do. Currently navigating the intersection of backend development, data engineering and machine learning.
 
 ---
 
-<table width="100%" style="width:100%; table-layout:fixed;">
-<tr>
-<td width="55%" valign="top">
 
 ### ⚡ Tech Stack
 
@@ -39,16 +41,6 @@ I build, I break.
 
 </td>
 <td width="45%" valign="top">
-
-### 🐧 About Me
-
-- 🎓 B.Tech Computer Science
-
-
-
-</td>
-</tr>
-</table>
 
 ---
 
