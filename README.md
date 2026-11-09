@@ -14,10 +14,12 @@ Computer Science undergraduate fascinated by the intersection of software, data 
 
 Currently exploring **Backend Development · Data Engineering · AI/ML · Linux & Systems**.
 
+---
+
 <table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="55%" valign="top">
----
+
 ### ⚡ Tech Stack
 
 **Languages**
@@ -51,13 +53,16 @@ Currently exploring **Backend Development · Data Engineering · AI/ML · Linux 
 **Current motto**
 
 *Learn deeply. Build consistently.*
----
+
 </td>
 </tr>
 </table>
+
+---
+
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" valign="top">
 
