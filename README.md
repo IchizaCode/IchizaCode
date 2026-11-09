@@ -21,7 +21,7 @@ I like working close to the systems layer, building things, breaking them, and f
 
 ---
 
-<img src="anime-lazy.gif" align="right" width="300"/>
+<img src="anime-lazy.gif" align="right" width="35%"/>
 
 ### ⚡ Tech Stack
 
