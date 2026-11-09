@@ -12,7 +12,12 @@
 
 Computer Science undergraduate fascinated by the intersection of software, data and infrastructure. I enjoy understanding systems from the ground up and learning by building things.
 
-Currently exploring **building my home server with various services viz. fullstack development, personal cloud, ai/ml infrastructure, data engineering pipelines and devops**.
+Currently building my home server with the following facilities:
+- Website Hosting
+- End to end etl data pipeline
+- Devops
+- AI/ML Infrastructure
+- Personal Cloud
 
 ---
 
@@ -40,19 +45,13 @@ Currently exploring **building my home server with various services viz. fullsta
 </td>
 <td width="45%" valign="top">
 
-### 🌸 A Little About Me
+### 🐧 About Me
 
 - 🎓 B.Tech Computer Science
 - 💻 Building things and breaking things
-- 📖 Manga & light novel enthusiast
-- 🎸 Guitar, J-rock & math rock
-- 🎧 J-pop and alternative music
-- Learning new languages
-- 🎹 Interested in learning piano
+- 📊 Love to work with data
+- 🎶 Learning Instruments | 🎸🎹
 
-**Current motto**
-
-*Learn deeply. Build consistently.*
 
 </td>
 </tr>
