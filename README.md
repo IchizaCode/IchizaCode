@@ -1,39 +1,24 @@
-# Hey, I'm Rajarshi 👋
+# ✦ Hey, I'm Rajarshi!
 
-### Computer Science Undergraduate | Backend Development | Data Engineering | AI/ML
+### Computer Science Undergraduate · Backend Development · Data Engineering · AI/ML
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-IchizaCode-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building-16A34A?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-9B8BB4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Backend-7895B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-Building-8FAF9B?style=flat-square" />
 </p>
 
-I'm a Computer Science undergraduate interested in understanding how software systems work, from the fundamentals of computing to scalable applications and data infrastructure.
+<p align="center">
+  <i>学び続ける。作り続ける。</i>
+  <br/>
+  <sub>Keep learning. Keep building.</sub>
+</p>
 
-I enjoy learning through experimentation, building projects, and exploring the technologies behind modern software systems.
+I'm Rajarshi, a Computer Science undergraduate fascinated by the systems that power modern technology.
 
----
+I enjoy exploring how things work under the hood — from Linux and computer networks to databases, backend systems, data pipelines and machine learning.
 
-## `$ whoami`
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Rajarshi Barman"
-        self.username = "IchizaCode"
-        self.education = "B.Tech Computer Science"
-        self.interests = [
-            "Backend Development",
-            "Data Engineering",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Linux & Systems"
-        ]
-        self.current_focus = "Building my homelab"
-
-    def motto(self):
-        return "Learn deeply. Build consistently."
-```
+Most of my learning happens through experimentation and building things. I'm currently working towards becoming a well-rounded engineer, with a particular interest in **Backend Development, Data Engineering and AI/ML**.
 
 ---
 
@@ -58,8 +43,8 @@ class Developer:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-8CA6C0?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-9B8BB4?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
 
 ---
@@ -68,7 +53,7 @@ class Developer:
 
 | Project | Description | Status |
 |---|---|---|
-| 🏠 [Homelab](https://github.com/IchizaCode/homelab) | Self-hosted engineering environment covering backend, data, AI/ML and infrastructure | In Progress |
+| 🏠 [Homelab](https://github.com/IchizaCode/homelab) | A self-hosted engineering environment for backend, data, AI/ML and infrastructure | In Progress |
 | 📊 Data Engineering | Exploring automated data pipelines and modern data infrastructure | Exploring |
 | 🤖 ML Projects | Experimenting with predictive analytics and recommendation systems | Exploring |
 
@@ -93,36 +78,33 @@ class Developer:
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <a href="https://github.com/IchizaCode?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-292638?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/IchizaCode?tab=stars">
-    <img src="https://img.shields.io/badge/Explore%20My%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Building consistently, one commit at a time.</i>
 </p>
 
 ---
 
-## 🌱 Beyond Code
+## 🌸 Beyond Code
 
-When I'm not coding, I'm probably:
+There's more to me than terminals and code.
 
-- 📖 Reading manga or light novels.
-- 🎸 Playing guitar.
-- 🎧 Exploring J-rock, J-pop and math rock.
-- 🇯🇵 Learning Japanese.
-- 💻 Exploring new technologies and ideas.
+- 📖 Manga & light novels — always looking for something worth reading.
+- 🎸 Guitar — especially J-rock, math rock and Midwest emo.
+- 🎧 Music — J-pop, J-rock and Japanese alternative.
+- 🇯🇵 Japanese — slowly working towards understanding the language.
+- 🎹 Piano — another instrument on my learning list.
 
 ---
 
 <p align="center">
-  <i>"The best way to understand a system is to build one."</i>
-  <br/><br/>
-  <b>Thanks for stopping by!</b>
+  <i>「千里の道も一歩から」</i>
   <br/>
-  <sub>Learn deeply. Build consistently.</sub>
+  <sub>A journey of a thousand miles begins with a single step.</sub>
+  <br/><br/>
+  ✦ Thanks for visiting my little corner of GitHub. ✦
 </p>
