@@ -37,6 +37,7 @@ I like working close to the systems layer, building things, breaking them, and f
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,sklearn&theme=dark"/>
 
+<br clear = "right"/>
 
 
 
@@ -47,7 +48,7 @@ I like working close to the systems layer, building things, breaking them, and f
 
 <table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **🏠 Homelab**
 
