@@ -115,23 +115,3 @@ Currently focusing on backend development, SQL, data engineering, Linux infrastr
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IchizaCode?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-292638?style=flat-square&logo=github&logoColor=C9B8E8"/>
-  </a>
-  <a href="https://github.com/IchizaCode?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-292638?style=flat-square&logo=github&logoColor=E8C98A"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Thanks for visiting my corner of GitHub.</sub>
-  <br/>
-  ✦ Learn deeply. Build consistently. ✦
-</p>
