@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "login": "IchizaCode",
+  "kind": "user",
+  "seed": "0487a73183aeb732",
+  "planted": "2026-02-22",
+  "last_grown": "2026-11-10",
+  "trunk": {
+    "height": 9,
+    "girth": 2,
+    "bends": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        -1
+      ]
+    ]
+  },
+  "branches": [
+    {
+      "repo_id": "R_kgDOVoA3wQ",
+      "name": "HomeLab",
+      "lang": null,
+      "anchor": 6,
+      "side": "right",
+      "length": 2,
+      "pad": 3,
+      "commits_total": 3,
+      "pruned": null
+    }
+  ],
+  "year_cache": {},
+  "history": [
+    {
+      "date": "2026-11-09",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-11-10",
+      "cells_added": 1
+    }
+  ],
+  "vitals": {
+    "phase": "growing",
+    "streak_days": 0,
+    "idle_days": 1,
+    "commits_total": 28,
+    "stars_total": 0,
+    "public_repos": 3,
+    "activity_28d": {
+      "R_kgDOVoA3wQ": 3
+    },
+    "grew": {
+      "R_kgDOVoA3wQ": 1
+    }
+  }
+}
