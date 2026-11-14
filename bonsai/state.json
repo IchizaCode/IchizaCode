@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "0487a73183aeb732",
   "planted": "2026-02-22",
-  "last_grown": "2026-11-12",
+  "last_grown": "2026-11-13",
   "trunk": {
     "height": 9,
     "girth": 2,
@@ -20,6 +20,30 @@
     ]
   },
   "branches": [
+    {
+      "repo_id": "R_kgDOVsRNBQ",
+      "name": "Discord_MangaReader",
+      "lang": "JavaScript",
+      "color": "#f1e05a",
+      "anchor": 2,
+      "side": "left",
+      "length": 1,
+      "pad": 3,
+      "commits_total": 12,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOVslquw",
+      "name": "Portfolio",
+      "lang": "HTML",
+      "color": "#e34c26",
+      "anchor": 5,
+      "side": "left",
+      "length": 1,
+      "pad": 3,
+      "commits_total": 3,
+      "pruned": null
+    },
     {
       "repo_id": "R_kgDOVoA3wQ",
       "name": "HomeLab",
@@ -45,18 +69,27 @@
     {
       "date": "2026-11-11",
       "cells_added": 1
+    },
+    {
+      "date": "2026-11-13",
+      "cells_added": 2
     }
   ],
   "vitals": {
     "phase": "growing",
-    "streak_days": 2,
+    "streak_days": 3,
     "idle_days": 0,
-    "commits_total": 31,
-    "stars_total": 0,
+    "commits_total": 46,
+    "stars_total": 2,
     "public_repos": 4,
     "activity_28d": {
-      "R_kgDOVoA3wQ": 3
+      "R_kgDOVoA3wQ": 3,
+      "R_kgDOVsRNBQ": 12,
+      "R_kgDOVslquw": 3
     },
-    "grew": {}
+    "grew": {
+      "R_kgDOVsRNBQ": 1,
+      "R_kgDOVslquw": 1
+    }
   }
 }
